@@ -1,0 +1,22 @@
+{
+  "name": "de.appplant.localnotification.example",
+  "version": "0.0.1",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogenesjup/AppNotificationExample.git"
+  },
+  "keywords": [
+    "tepping"
+  ],
+  "author": "Apache Cordova Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogenesjup/AppNotificationExample/issues"
+  },
+  "homepage": "https://github.com/diogenesjup/AppNotificationExample.git#readme"
+}

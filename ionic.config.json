@@ -1,0 +1,7 @@
+{
+  "name": "de.appplant.localnotification.example",
+  "type": "custom",
+  "integrations": {
+    "cordova": {}
+  }
+}
