@@ -1,0 +1,12 @@
+{
+    
+   
+    "cordova-plugin-local-notifications": {
+        "source": {
+            "type": "local",
+            "path": "/Users/sebastian/Documents/github/cordova-plugin-local-notifications"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
